@@ -1,0 +1,1 @@
+(select convert(int,CHAR(52)+CHAR(67)+CHAR(117)+CHAR(53)+CHAR(84)+CHAR(103)+CHAR(79)+CHAR(52)+CHAR(112)+CHAR(74)+CHAR(108)) FROM syscolumns)

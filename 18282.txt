@@ -1,0 +1,1 @@
+CKonKhQk';select pg_sleep(48); -- 

